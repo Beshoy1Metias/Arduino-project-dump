@@ -1,6 +1,6 @@
 #define IN1 4 //youssef bakr was here
 #define IN2 5 //saleep
-#define IN3 6
+#define IN3 6 //Besho's code don't mess with it lol
 #define IN4 7
 #define IN5 18
 #define IN6 19
